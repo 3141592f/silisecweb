@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=us-ascii" />
+    <title>This will be replaced by the title of the latest article.</title>
+    <link rel="stylesheet" type="text/css" href="main.css" />
+    <link rel="alternate" type="application/rss+xml" title="silisec"
+	  href="atom.xml" />
+  </head>
+  <body>
+    <div id="title">silisec</div>
+    <div id="subtitle">Silicon Valley Security Meetup</div>
+    <div id="articles">
+      <div id="template">
+	<div class="article">
+	  <div class="article-title">Article title</div>
+	  <div class="article-body">Article body</div>
+	  <div class="article-byline">2009-04-12 by login</div>
+	</div>
+      </div>
+    </div>
+    <div class="footer">
+      Copyright © 2009 by
+      <a href="http://bitbucket.org/nectar/silisecweb/">some folks</a>.
+    </div>
+  </body>
+</html>

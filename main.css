@@ -1,0 +1,57 @@
+body {
+    color: #33ff00; /* green */
+    background: black;
+    font-family: "Menlo", "Monaco", "Lucida Console", "Courier New", "Courier", "monospace";
+    font-size: medium;
+}
+
+#title {
+    color: white;
+    text-align: center;
+    font-size: x-large;
+}
+
+#subtitle {
+    text-align: center;
+    font-size: large;
+}
+
+#articles {
+    margin: 4ex;
+}
+
+.article {
+    border-color: #33ff00; /* green */
+    border-width: 1px 0px 0px 0px;
+    border-style: solid;
+    padding-bottom: 4ex;
+}
+
+.indent {
+    margin-left: 10ex;
+}
+
+.article-title {
+    color: white;
+    text-transform: lowercase;
+}
+
+.article-byline {
+    color: #009900;
+    font-size: small;
+}
+
+.footer {
+    text-align: right;
+    font-size: small;
+}
+
+a:link, a:visited {
+    color: #33ff00;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: black;
+    background: #33ff00;
+}
