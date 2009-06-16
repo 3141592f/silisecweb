@@ -2,6 +2,20 @@
 <articles xmlns="http://silisec.org/apps/article-1">
 
   <article>
+  	<title>Baysec is June 23</title>
+  	<author>jvidrine</author>
+  	<date>2009-06-16</date>
+  	<body xmlns="http://www.w3.org/1999/xhtml">
+  	  <p>Of course <em>silisec</em> is not the only Citysec meetup
+	  in the San Francisco Bay Area, nor even the first.  In fact,
+	  <em>silisec</em> got its start through folks who just couldn’t get
+	  enough of <a href="http://www.baysec.net">Baysec</a>.  Check out
+	  the next Baysec meetup at
+	  <a href="http://www.kateobriens.com/">Kate O’Briens</a> in
+	  downtown San Francisco!</p>
+    </body>
+  </article>
+  <article>
 	<title>Next silisec: June 3</title>
 	<author>jvidrine</author>
 	<date>2009-05-26</date>
