@@ -2,6 +2,23 @@
 <articles xmlns="http://silisec.org/apps/article-1">
 
   <article>
+	<title>Next silisec: July 9</title>
+	<author>jvidrine</author>
+	<date>2009-07-04</date>
+	<body xmlns="http://www.w3.org/1999/xhtml">
+	  <p>Hey, Happy Independence Day, Everyone!</p>
+	  <p>This week brings a new <em>silisec</em> meetup in Mountain View, at
+	  <a href="http://www.tiedhouse.com/mtview/">Tied House Café and Brewery</a>,
+	  a few blocks west from the Caltrain station.
+	  Look for your secpals sliding into inebriation Thursday July 9th,
+	  starting around 6:30pm!</p>
+	  <div class="indent">
+<iframe width="300" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=tied+house,+mountain+view,+ca&amp;sll=37.338927,-122.00738&amp;sspn=0.011464,0.014291&amp;ie=UTF8&amp;cid=572407704674610571&amp;ll=37.401256,-122.072182&amp;spn=0.04091,0.051498&amp;z=13&amp;output=embed&amp;iwloc=near"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=tied+house,+mountain+view,+ca&amp;sll=37.338927,-122.00738&amp;sspn=0.011464,0.014291&amp;ie=UTF8&amp;cid=572407704674610571&amp;ll=37.401256,-122.072182&amp;spn=0.04091,0.051498&amp;z=13" style="text-align:left">View Larger Map</a></small>
+	  </div>
+	  <p />
+	</body>
+  </article>
+  <article>
   	<title>Baysec is June 23</title>
   	<author>jvidrine</author>
   	<date>2009-06-16</date>
