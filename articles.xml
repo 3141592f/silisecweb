@@ -2,6 +2,17 @@
 <articles xmlns="http://silisec.org/apps/article-1">
 
   <article>
+	<title>Next silisec: October 8</title>
+	<author>jvidrine</author>
+	<date>2009-10-02</date>
+	<body xmlns="http://www.w3.org/1999/xhtml">
+	  <p><em>silisec</em> is returning to Mountain View, this time
+	  at <a href="http://www.ststephensgreen.com/">St. Stephens
+	  Green</a>.  Meet us there around <strong>7pm on Thursday
+	  October 2nd</strong>!</p>
+	</body>
+  </article>
+  <article>
 	<title>Next silisec: September 1</title>
 	<author>jvidrine</author>
 	<date>2009-08-28</date>
