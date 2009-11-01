@@ -2,6 +2,18 @@
 <articles xmlns="http://silisec.org/apps/article-1">
 
   <article>
+	<title>Next silisec: November 5th</title>
+	<author>3141592f</author>
+	<date>2009-1029</date>
+	<body xmlns="http://www.w3.org/1999/xhtml">
+	  <p><em>silisec</em> is returning to Sunnyvale, this time at <a href="http://www.stjohnsgrill.com/">St. John's Grill</a>. Meet us there around <strong>7pm on Thursday November 5th</strong>!</p>
+	  <div class="indent">
+<iframe width="300" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?q=st+johns+grill+sunnyvale,+ca&hl=en&ei=STXqSva1I4ietAOJsfXvDw&vps=2&jsv=183b&sll=37.352227,-122.015872&sspn=0.072601,0.049146&ie=UTF8&view=map&cid=7790390675902109175&iwloc=A"></iframe>
+	  </div>
+	  <p />
+	</body>
+  </article>
+  <article>
 	<title>Next silisec: October 8</title>
 	<author>jvidrine</author>
 	<date>2009-10-02</date>
